@@ -1,2 +1,25 @@
-
 /* Your CSS Code here. */
+#adoptionform{
+	
+    margin: 0 auto;
+    padding: 20px;
+    border: 4px solid black;
+	background-color: #f0f0ff;
+}
+body{
+	font-family:'Arial', sans-serif;
+}
+label{
+	margin-left:10px;
+}
+input,option,select{
+	margin-left:70%;
+}
+#submit{
+	 display: block;
+    margin: 15px auto;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 60px;
+   background-color:white;
+}
